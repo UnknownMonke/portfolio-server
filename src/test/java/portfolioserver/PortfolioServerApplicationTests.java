@@ -1,4 +1,4 @@
-package org.monke.portfolioserver;
+package portfolioserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -9,5 +9,4 @@ class PortfolioServerApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
